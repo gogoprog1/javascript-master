@@ -1,0 +1,55 @@
+Variables
+https://www.w3schools.com/js/js_variables.asp
+var - let - const
+let num = 100
+
+ 
+-------------------------------------
+
+Arithmetic
+https://www.w3schools.com/js/js_arithmetic.asp
+
++	Addition
+-	Subtraction
+*	Multiplication
+**	Exponentiation (ES2016)
+/	Division
+%	Modulus (Remainder)
+++	Increment
+--	Decrement
+
+-------------------------------------
+
+Data Types
+https://www.w3schools.com/js/js_datatypes.asp
+
+1. String 'omar'
+2. Number 0-9
+3. Boolean true - false     0-1
+4. Undefined
+5. Null
+
+-------------------------------------
+
+JavaScript Events
+onclick - onmouseover - onkeydown
+https://www.w3schools.com/js/js_events.asp
+
+-------------------------------------
+Functions
+https://www.w3schools.com/js/js_functions.asp
+function myFunction(p1, p2) {
+    return p1 * p2;
+  }
+  myFunction()
+]
+
+-------------------------------------
+
+GIT
+
+git add .
+
+git commit -m "name of connit"
+
+git push

@@ -1,0 +1,17 @@
+.main-box {
+width: 400px;
+height: 206px;
+background-color: rgb(186, 213, 238);
+border-radius: 7px;
+padding: 10px;
+}
+.stock{
+    color: green;
+}
+.products{
+    color: rgb(114, 95, 158);
+}
+.statues{
+    color: rgb(184, 164, 89);
+}
+

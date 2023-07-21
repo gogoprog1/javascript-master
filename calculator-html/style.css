@@ -1,0 +1,24 @@
+* {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    font-family: 'Roboto', sans-serif;
+}
+
+#num1,
+#num2,
+#result {
+    color: brown;
+    width: 20px;
+    height: 20px;
+    background-color: beige;
+    padding: 10px 10px 10px 17px;
+    border-radius: 5px;
+}
+
+#equal {
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(159, 152, 229);
+}
